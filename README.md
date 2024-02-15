@@ -21,7 +21,8 @@ Now you don't have to worry about being tracked or read by the FBI when communic
 
 You need to run clientSHIFR.exe and serverSHIFR_for_py3.exe on two computers (or run the original python files).
 
-![image](https://github.com/tkachukds/local_messenger/assets/103854079/4fc27b87-08e4-4ae5-8589-2b948f7a54c9)
+![image](https://github.com/tkachukds/local_messenger/assets/103854079/29115dfd-edbb-429a-a3a4-564a8a9e5d45)
+
 
 The client is a client for sending messages to the computer's IP. Make up a three-digit password for the chat. Start writing
 
