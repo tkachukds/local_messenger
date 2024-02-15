@@ -4,7 +4,8 @@
 
 Нужно запустить на двух компьютерах clientSHIFR.exe и serverSHIFR_for_py3.exe (либо запустить оригинальные пайтон файлы)
 
-![image](https://github.com/tkachukds/local_messenger/assets/103854079/4fc27b87-08e4-4ae5-8589-2b948f7a54c9)
+![image](https://github.com/tkachukds/local_messenger/assets/103854079/049fe71a-66b6-4db1-a146-a130a993a05f)
+
 
 Клиент - прошка для отправки сообщений на айпи компьютера. Придумываем трехзначный пароль для чата. Начинаем писать
 
