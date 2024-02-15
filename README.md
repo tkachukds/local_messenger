@@ -1,6 +1,6 @@
 Локальнй месседжер.
 
-Вы можете запустить на двух компьютерах clientSHIFR и serverSHIFR_for_py3
+Вы можете запустить на двух компьютерах clientSHIFR.exe и serverSHIFR_for_py3.exe (либо запустить оригинальные пайтон файлы)
 
 ![image](https://github.com/tkachukds/local_messenger/assets/103854079/4fc27b87-08e4-4ae5-8589-2b948f7a54c9)
 
