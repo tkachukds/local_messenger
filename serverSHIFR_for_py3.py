@@ -46,10 +46,10 @@ while True:
         # Расшифровываем полученное сообщение
         decrypted_data = encrypt(data, -encryption_key)
 
-        print("Получено зашифрованное сообщение от {0}: {1}".format(client_address, decrypted_data.decode('utf-8')))
+        print("Получено сообщение от {0}: {1}".format(client_address, decrypted_data.decode('utf-8')))
 
         # Отправляем ответ клиенту (зашифрованный)
-        response = "Вы писали зашифрованное сообщение: {0}".format(decrypted_data.decode('utf-8'))
+        response = "Зашифрованное сообщение получено"
         encrypted_response = encrypt(response.encode('utf-8'), encryption_key)
         client_socket.send(encrypted_response)
 
