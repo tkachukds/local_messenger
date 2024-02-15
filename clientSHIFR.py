@@ -43,7 +43,7 @@ def client():
 
         # Расшифровываем полученный ответ
         decrypted_response = encrypt(encrypted_response, -encryption_key)
-        print("Получен расшифрованный ответ от сервера:", decrypted_response.decode('utf-8'))
+        print("Ответ от сервера:", decrypted_response.decode('utf-8'))
 
     # Закрываем соединение
     client_socket.close()
